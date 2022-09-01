@@ -1,5 +1,3 @@
-# Data Science Portfolio
-
 ## [Project 1: Titanic Classification with Python](https://github.com/ericmattos/Titanic-Classification)
 
 This is a classification project using Python and the Titanic data set. Our goal was to use different machine learning algorithms to predict which passengers survived and compare the results to determine which algorithm is best suited for this problem. The algorithms we tested were the naive Bayes, decision tree, random forest, k nearest neighbors, logistic regression, support vector machines and neural networks classifiers. The ones with the best performance were decision tree, random forest and logistic regression and the results for these three algorithms were not statistically distinct from each other.
