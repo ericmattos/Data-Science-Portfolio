@@ -1,4 +1,4 @@
-# Eric Perides Mattos' Data Science Portfolio
+# Data Science Portfolio
 
 ## [Project 1: Titanic Classification with Python](https://github.com/ericmattos/Titanic-Classification)
 
